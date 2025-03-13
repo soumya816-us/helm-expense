@@ -1,0 +1,4 @@
+deployment:
+  version: 1.3.0
+hpa:
+  utilisation: 5
